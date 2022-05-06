@@ -139,6 +139,9 @@ ul {
   padding: 1%;
   clear: both;
 }
+.show{
+  display: none;
+}
 
 
 @keyframes App-logo-spin {
